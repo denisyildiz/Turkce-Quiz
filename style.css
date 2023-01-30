@@ -1,0 +1,212 @@
+*{
+    background-color: rgb(0, 162, 255);
+
+}
+.bir{
+    position: fixed;
+    margin-top: -120px;
+    margin-left: 250px;
+}
+.iki{
+    position: fixed;
+    margin-top: -120px;
+    margin-left: 250px;
+}
+.uc{
+    position: fixed;
+    margin-top: -120px;
+    margin-left: 270px;
+}
+.dort{
+    position: fixed;
+    margin-top: -120px;
+    margin-left: 250px;
+}
+.bes{
+    position: fixed;
+    margin-top: -120px;
+    margin-left: 320px;
+}
+.alti{
+    position: fixed;
+    margin-top: -120px;
+    margin-left: 300px;
+}
+.yedi{
+    position: fixed;
+    margin-top: -120px;
+    margin-left: 320px;
+}
+.sekiz{
+    position: fixed;
+    margin-top: -120px;
+    margin-left: 320px;
+}
+.dokuz{
+    position: fixed;
+    margin-top: -120px;
+    margin-left: 300px;
+}
+.on{
+    position: fixed;
+    margin-top: -120px;
+    margin-left: 300px;
+}
+
+
+.header{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+    text-shadow:2px 2px black;
+}
+.cizgi{
+width: 100%;
+height: auto; 
+background-color: rgb(201, 193, 209);
+border: 1px solid rgb(0, 204, 255);
+display: block;
+}
+.dogru{
+background-color:rgb(43, 255, 0);
+color: white;
+border: 0px solid;
+width: 75px;
+height: 35px;
+border-radius: 15px;
+
+
+
+}
+.dogru:hover{
+    background-color:rgb(37, 231, 46);
+    width: 76px;
+    height: 36px;
+    border-radius: 15px;
+}
+.yanlis{
+    background-color:rgb(255, 8, 0);
+    color: white;
+    border: 0px solid;
+    width: 75px;
+    height: 35px;
+    border-radius: 15px;
+ 
+}
+.yanlis:hover{
+    background-color:rgb(255, 8, 0);
+    width: 76px;
+    height: 36px;
+    border-radius: 15px;
+    
+}
+.soru{
+    background-color: rgb(201, 193, 209);
+}
+.yanlishakk{
+    background-color: rgb(201, 193, 209);
+    color: red;
+text-shadow: none;
+}
+
+.yanlishakk #number{
+    background-color: rgb(201, 193, 209);
+color: red;
+text-shadow: none;
+}
+.soru{
+text-shadow: 1px 1px black;
+}
+.kalansoru{
+    background-color: rgb(201, 193, 209);
+    margin-left: 900px;
+    margin-top: -50px;
+
+}
+.kalansoru .sorutext{
+    background-color: rgb(201, 193, 209);
+}
+.zorlukduzeyi{
+    background-color: rgb(201, 193, 209);
+    display: flex;
+    justify-content: right;
+    margin-top: -40px;
+    float: left;
+}
+.zorluksecenek{
+    background-color: rgb(201, 193, 209);
+ color: rgb(15, 248, 54);
+text-shadow: 1px 1px rgb(255, 0, 0);
+}
+.baslatbutonu{
+    width: 250px;
+    height: 50px;
+border: 0px;
+background-color: rgb(255, 5, 5); 
+color: white;
+text-shadow: 1px 1px black;
+border-radius: 15px;
+}
+.baslatbutonu:hover{
+
+    background-color: rgb(36, 231, 46);
+    width: 252px;
+    height: 52px;
+}
+.sorualani{
+    background-color: rgb(201, 193, 209);
+}
+p{
+    background-color: rgb(201, 193, 209);
+}
+.kalansorunumber{
+    background-color: rgb(201, 193, 209);
+}
+.tebrikler{
+    color: rgb(4, 111, 252);
+    text-shadow: none;
+}
+span{
+    color: rgb(255, 255, 255);
+}
+.yenisoru{
+    background-color: rgb(201, 193, 209);
+    width: 80px;
+    height: 80px;
+    border: 0px;
+    background-color: rgb(47, 230, 23);
+    color: black;
+    border-radius: 15px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+.yenisoru:hover{
+    width: 81px;
+    height: 81px;
+    color: rgb(255, 255, 255);
+}
+/* .sorualani2{
+    background-color: rgb(201, 193, 209);
+} */
+.maalesef{
+    color: rgb(252, 4, 4);
+    text-shadow: none;
+}
+.maalesef span{
+    color: rgb(255, 255, 255);
+}
+.kazandiniz{
+    background-color: rgb(201, 193, 209);
+    font-size: 25px;
+}
+b{
+    background-color: rgb(201, 193, 209);
+}
+.score{
+    color: rgb(8, 53, 255);
+text-shadow: 0px 0px rgb(0, 0, 0);
+margin-left: -5px;
+}
+a{
+    background-color: rgb(201, 193, 209);
+}
